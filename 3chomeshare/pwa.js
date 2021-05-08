@@ -1,0 +1,1 @@
+if("serviceWorker"in navigator){navigator.serviceWorker.register("/sw.js",{scope:"/"}).then((function(e){})).catch((function(e){}));let e=!1;navigator.serviceWorker.addEventListener("controllerchange",()=>{e||(e=!0,alert("正在更新Service Worker版本 请稍后……"),window.location.reload())})}

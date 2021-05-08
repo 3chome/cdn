@@ -1,0 +1,17 @@
+{
+    "name": "3ChomeShare",
+    "short_name": "3ChomeShare",
+    "lang": "zh-CN",
+    "start_url": "/",
+    "display": "standalone",
+    "theme_color": "#fff",
+    "background_color": "#fff",
+    "icons": [
+        {
+            "src": "https://cdn.jsdelivr.net/gh/3chome/3chome@cdn/icon/disk.png",
+            "sizes": "200x200",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ]
+}
