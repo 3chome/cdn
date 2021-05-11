@@ -8,7 +8,7 @@
     "background_color": "#fff",
     "icons": [
         {
-            "src": "https://cdn.jsdelivr.net/gh/3chome/3chome@cdn/icon/disk.png",
+            "src": "https://cdn.jsdelivr.net/gh/3chome/3chome@cdn/icon/share.png",
             "sizes": "200x200",
             "type": "image/png",
             "purpose": "any maskable"
