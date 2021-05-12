@@ -2,7 +2,7 @@
     "name": "3ChomeShare",
     "short_name": "3ChomeShare",
     "lang": "zh-CN",
-    "start_url": "/",
+    "start_url": "/home",
     "display": "standalone",
     "theme_color": "#fff",
     "background_color": "#fff",
